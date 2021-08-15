@@ -1,0 +1,27 @@
+.sidebar {
+    padding: 2rem;
+}
+
+.sidebar__header {
+    padding: 20px 20px 5px 20px;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.1rem;
+    border: 0px !important;
+}
+
+.sidebar__footer {
+    padding: 12px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    cursor: pointer;
+    border: 0px !important;
+}
+
+.sidebar__footer button{
+    background-color: #32ceaf !important;
+    border-color: #32ceaf !important;
+    font-weight: 600 !important;
+}

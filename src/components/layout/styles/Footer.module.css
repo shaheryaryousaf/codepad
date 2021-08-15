@@ -1,0 +1,65 @@
+footer {
+    padding: 4% 0 3% 0;
+    background-color: #515050;
+}
+
+footer{
+    color: white;
+}
+
+footer a,
+footer a:hover {
+    color: white;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+ul li:first-child{
+    color: white !important;
+    margin-bottom: 15px;
+}
+
+ul li a,
+ul li a:hover {
+    color: white;
+    text-decoration: none;
+    line-height: 2.5rem;
+    font-size: 16px;
+}
+
+.socialIcons{
+    margin-top: 20px;
+}
+
+.socialIcons li{
+    display: inline;
+    margin-right: 15px;
+}
+
+.socialIcons li:nth-child(1){
+    background-color: #1da1f2;
+    padding: 1px 6px 3px 6px;
+    border-radius: 5px;
+}
+
+.socialIcons li:nth-child(2) {
+    background-color: #9146ff;
+    padding: 1px 6px 3px 6px;
+    border-radius: 5px;
+}
+
+.socialIcons li:nth-child(3) {
+    background-color: red;
+    padding: 1px 6px 3px 6px;
+    border-radius: 5px;
+}
+
+.socialIcons li:nth-child(4) {
+    background-color: #4a154b;
+    padding: 1px 6px 3px 6px;
+    border-radius: 5px;
+}
+

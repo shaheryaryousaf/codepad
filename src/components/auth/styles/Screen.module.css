@@ -1,0 +1,16 @@
+.accounts__container {
+    min-height: 89vh;
+    padding-left: 0;
+}
+
+.main {
+    background-color: #F5F5FC !important;
+    min-height: 89vh;
+    display: flex;
+    flex: 1;
+}
+
+.content {
+    width: inherit;
+    padding: 1.2%;
+}

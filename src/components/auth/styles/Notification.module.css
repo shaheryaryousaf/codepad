@@ -1,0 +1,18 @@
+.notification{
+    background-color: #353C4E;
+    padding: 10px;
+    box-shadow: rgb(0 0 0 / 20%) 0px 3px 3px -2px,
+    rgb(0 0 0 / 14%) 0px 3px 4px 0px,
+    rgb(0 0 0 / 12%) 0px 1px 8px 0px;
+}
+
+.notification span{
+    color: white;
+}
+
+.notification button{
+    background-color: #32ceaf !important;
+    border-color: #32ceaf !important;
+    margin-left: 15px;
+    padding: 8px 22px !important;
+}
